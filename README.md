@@ -1,6 +1,7 @@
 # fcitx5-webdav-sync-plugin
 
-这是从 [fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) 项目中提取出来的独立 WebDAV 同步插件项目。
+
+因APK签名问题该项目已废弃
 
 ## 项目说明
 
