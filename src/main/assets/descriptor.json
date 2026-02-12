@@ -1,0 +1,9 @@
+{
+  "pluginAPI": "0.1",
+  "name": "WebDAV 同步",
+  "package": "org.fcitx.fcitx5.android.plugin.webdav_sync",
+  "description": "WebDAV 同步插件，用于与远程 WebDAV 目录同步 Fcitx5 相关数据（例如词库、快捷短语等）。",
+  "hasService": true,
+  "versionName": "0.1.0",
+  "domain": "webdav"
+}

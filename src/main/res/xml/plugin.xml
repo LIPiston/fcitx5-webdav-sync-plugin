@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin xmlns="../../../../../pluginSchema.xsd">
+    <!-- 与主应用的 PluginDescriptor.pluginAPI 对应 -->
+    <apiVersion>0.1</apiVersion>
+    <!-- 这里只做描述性信息，不参与逻辑 -->
+    <description>@string/description</description>
+    <!-- 声明本插件提供 IPC Service -->
+    <hasService>true</hasService>
+</plugin>

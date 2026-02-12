@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 应用名（不同构建类型下会被覆盖） -->
+    <string name="app_name_debug">Fcitx5 WebDAV Sync (Debug)</string>
+    <string name="app_name_release">Fcitx5 WebDAV Sync</string>
+    <string name="app_name">Fcitx5 WebDAV Sync</string>
+    <string name="description">WebDAV 同步插件，用于与远程 WebDAV 目录同步 Fcitx5 相关数据（例如词库、快捷短语等）。</string>
+
+    <!-- 设置界面 -->
+    <string name="settings_title">WebDAV 同步设置</string>
+    <string name="settings_webdav_url">WebDAV 根地址</string>
+    <string name="settings_webdav_url_summary">例如：https://example.com/remote.php/dav/files/user/fcitx5/quickphrase.txt</string>
+    <string name="settings_username">用户名（可选）</string>
+    <string name="settings_password">密码（可选）</string>
+    <string name="settings_local_file">本地文件相对路径</string>
+    <string name="settings_local_file_summary">相对于应用私有目录，例如：quickphrase.txt</string>
+    <string name="settings_save">保存</string>
+    <string name="settings_sync_now">立即同步</string>
+
+    <!-- 提示信息 -->
+    <string name="msg_config_saved">配置已保存</string>
+    <string name="msg_sync_started">已开始同步</string>
+    <string name="msg_sync_success">同步完成</string>
+    <string name="msg_sync_failed">同步失败：%1$s</string>
+    <string name="msg_missing_config">请先在设置界面中填写完整的 WebDAV 配置</string>
+</resources>
